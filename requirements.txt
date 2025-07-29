@@ -1,0 +1,8 @@
+megaparse==0.0.31       --no-deps
+unstructured==0.8.1     --no-deps
+pdfminer.six==20211012  --no-deps
+click==8.1.7
+chardet
+filetype
+lxml
+pillow
